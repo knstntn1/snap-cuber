@@ -12,6 +12,7 @@ This project demonstrates how real-time digital twins can transform computer-sci
 
 ## Digital Twin in Snap! 
 with 2D and 3d representation 
+
 <img src="https://github.com/user-attachments/assets/2f0016b9-4d1e-4012-885e-638cffafa54a" width="600"/>
 
 ## credits
