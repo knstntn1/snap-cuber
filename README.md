@@ -27,9 +27,7 @@ Build the following without the distance_sensor hold: https://rebrickable.com/mo
 We've added a glare shield to the color sensor for better sensing performance. The corresponding .stl-File can be found in the repository. 
 
 ## Digital Twin in Snap! 
-with 2D and 3d representation 
-
-<img src="https://github.com/user-attachments/assets/2f0016b9-4d1e-4012-885e-638cffafa54a" width="600"/>
+Link to the project will be added as soon, as snap-based solving algorithm is fixed
 
 ## credits
 3D cube implementation based on: https://snap.berkeley.edu/project?username=kuluk&projectname=Rubiks%20Cube%203D
