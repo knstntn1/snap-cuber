@@ -13,7 +13,7 @@ This project demonstrates how real-time digital twins can transform computer-sci
 
 ## LEGO® Education SPIKE robot
 
-src="https://github.com/user-attachments/assets/f6bbf992-6b04-480c-96b1-07c25f96628f" width="600"/>
+<img src="https://github.com/user-attachments/assets/f6bbf992-6b04-480c-96b1-07c25f96628f" width="600"/>
 Build the following without the distance_sensor hold: https://rebrickable.com/mocs/MOC-96615/Arnau18501p/rubiks-cube-solver-primecube/
 
 We've added a glare shield to the color sensor for better sensing performance. The corresponding .stl-File can be found in the repository. 
