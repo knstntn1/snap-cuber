@@ -6,10 +6,17 @@ A LEGO® Education SPIKE robot capable of solving a physical RubiksCube ®, inte
 
 This project demonstrates how real-time digital twins can transform computer-science education by linking a virtual Rubik’sCube® model in Snap! directly to a LEGO® SPIKE robot (buildable with a single SPIKE Prime Education Kit) — complete with live synchronization (via serial communication) of moves and sensor feedback powered by a lightweight machine-learning color classifier—offering a hands-on platform for students to investigate physical computing, algorithm design, and AI concepts in a single cohesive system. Its modular architecture makes it easy to adapt for diverse learning environments, from introductory algorithm exercises to advanced explorations of modeling, abstraction, and robotics.
 
+
+## Videos
+
+
+
 ## LEGO® Education SPIKE robot
 
+src="https://github.com/user-attachments/assets/f6bbf992-6b04-480c-96b1-07c25f96628f" width="600"/>
 Build the following without the distance_sensor hold: https://rebrickable.com/mocs/MOC-96615/Arnau18501p/rubiks-cube-solver-primecube/
-<img src="https://github.com/user-attachments/assets/f6bbf992-6b04-480c-96b1-07c25f96628f" width="600"/>
+
+We've added a glare shield to the color sensor for better sensing performance. The corresponding .stl-File can be found in the repository. 
 
 ## Digital Twin in Snap! 
 with 2D and 3d representation 
